@@ -37,9 +37,9 @@ Step 11: Deploy the project on GitHub as well as GitHub pages
 
 ![Screenshot 2023-03-15 231413](https://user-images.githubusercontent.com/124024533/225414458-aa77eaf0-c975-4406-9bfc-5f32cc3d8708.png)
 
-![Screenshot 2023-03-16 000842](https://user-images.githubusercontent.com/124024533/225414584-bcde29d3-c2a1-4b43-9622-3bce9f8c641b.png)
+![Screenshot 2023-03-16 013613](https://user-images.githubusercontent.com/124024533/225430538-c618c65d-3f9f-498f-bfa0-6825bc8663e8.png)
 
-![Screenshot 2023-03-16 000858](https://user-images.githubusercontent.com/124024533/225414719-5efbe2d0-0854-48bc-8b87-a05175b966d4.png)
+![Screenshot 2023-03-16 013736](https://user-images.githubusercontent.com/124024533/225430693-85ae3854-f183-4e6a-befb-5c1c91094c8a.png)
 
 ### Deployment
 
@@ -48,3 +48,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
