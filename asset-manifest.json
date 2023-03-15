@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/wine-mart/static/js/main.e0d46141.js",
+    "main.js": "/wine-mart/static/js/main.d1e3be37.js",
     "static/js/787.b4a6b6ca.chunk.js": "/wine-mart/static/js/787.b4a6b6ca.chunk.js",
     "index.html": "/wine-mart/index.html",
-    "main.e0d46141.js.map": "/wine-mart/static/js/main.e0d46141.js.map",
+    "main.d1e3be37.js.map": "/wine-mart/static/js/main.d1e3be37.js.map",
     "787.b4a6b6ca.chunk.js.map": "/wine-mart/static/js/787.b4a6b6ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e0d46141.js"
+    "static/js/main.d1e3be37.js"
   ]
 }
