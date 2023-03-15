@@ -5,13 +5,13 @@ import { result1, result2, result3 } from '../FetchJSONdata/FetchJSONdata';
 const Scatter = () => {
     let option = {
         title: {
-          text: 'Wine-data-set used for visualization',
+          text: 'Wine-data-set visualization',
           subtext: 'y: Hue-Color,  x: Intensity'
         },
         grid: {
-          left: '5%',
-          right: '7%',
-          bottom: '10%',
+          left: '4%',
+          right: '4%',
+          bottom: '12%',
           containLabel: true
         },
         tooltip: {
@@ -216,7 +216,7 @@ const Scatter = () => {
       };
   return (
     <div>
-        <ReactECharts option={option} style={{height: '80vh'}}/>
+        <ReactECharts option={option} style={{height: '85vh'}}/>
     </div>
   )
 }

@@ -74,6 +74,7 @@ export { UnknownArray };
 const FetchJSONdata = () => {
 
   return (
+    // -- You can fetch the data this way too --
     // <div className="fetch-data">
     //   <div className="posts">
     //     <h2>Ash</h2>

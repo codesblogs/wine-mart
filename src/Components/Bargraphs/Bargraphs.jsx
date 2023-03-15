@@ -15,7 +15,7 @@ const Bargraphs = () => {
         grid: {
           left: '2%',
           right: '2%',
-          bottom: '5%',
+          bottom: '1%',
           containLabel: true
         },
         yAxis: {
@@ -32,7 +32,7 @@ const Bargraphs = () => {
             type: 'bar',
             stack: 'total',
             label: {
-              show: true
+              show: false
             },
             emphasis: {
               focus: 'series'
@@ -80,7 +80,7 @@ const Bargraphs = () => {
             type: 'bar',
             stack: 'total',
             label: {
-              show: true
+              show: false
             },
             emphasis: {
               focus: 'series'

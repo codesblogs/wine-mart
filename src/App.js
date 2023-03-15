@@ -10,12 +10,12 @@ function App() {
           <FetchJSONdata />
       </div>
       
-      <div className='bargraphs' style={{height: '90vh', width:  '160%'}}>
+      <div className='bargraphs' style={{height: '100vh', width:  '100%'}}>
         <Bargraphs/>
         
       </div>
       <h1>Scatter plot of Hue-Color Intensity</h1>
-      <div className='scatterch' style={{height: '85vh'}}>
+      <div className='scatterch' style={{height: '90vh'}}>
         <Scatter/>
       </div>
     </div>
