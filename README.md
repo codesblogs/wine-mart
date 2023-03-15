@@ -2,64 +2,44 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Step 1: npx create-react-app winemart
 
-In the project directory, you can run:
+Step 2: yarn add
+// to add the yarn inside our project
 
-### `npm start`
+Step 3: yarn start
+// It will start the Code & will Display in Browser
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Step 4: Clear the unnecessary codes & Files
+// remove the Unnecessary files & Codes from the React-app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Step 5: Build the Structure of Project, So it will be easy to follow next time
+// It helps to clear your thought & follow the plan
 
-### `npm test`
+Step 6: Install "echart" & "echarts-for-react"
+// It will help to build Charts in your project/ Even you can use echartjs different version too(In this project I had used "echart" & "echarts-for-react")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Step 7: You can either use JSON as a downloaded file inside the project or you can fetch it as a API
+// In my case I downloaded the file & used as a file named "Wine-data.json".
 
-### `npm run build`
+Step 8: Fetched the JSON data as per requirement
+// Basically I used JSON.map() to retrieve the data
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Step 9: Once all the data fetched you are all set to go for Chart representaion
+// Build the chart as per given data in "Apache ECharts" and insert the retrieved data as per requirement specially in Array format.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Step 10: Once the Bar Chart & Scatter Plot Chart Completed
+// You can Style a bit of Increasing the Size() or Decreasing the size() as per your Screen
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Step 11: Deploy the project on GitHub as well as GitHub pages
+// To able to catch your website on Online
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot 2023-03-15 231413](https://user-images.githubusercontent.com/124024533/225414458-aa77eaf0-c975-4406-9bfc-5f32cc3d8708.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot 2023-03-16 013613](https://user-images.githubusercontent.com/124024533/225430538-c618c65d-3f9f-498f-bfa0-6825bc8663e8.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Screenshot 2023-03-16 013736](https://user-images.githubusercontent.com/124024533/225430693-85ae3854-f183-4e6a-befb-5c1c91094c8a.png)
 
 ### Deployment
 
@@ -68,3 +48,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
